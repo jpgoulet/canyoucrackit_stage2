@@ -16,7 +16,7 @@ Simply run using Python the stage2.py file.
 Output
 ------
 
-The output is a simple memory dump where we can clearly see solution.
+The output is a simple memory dump where we can clearly see the solution.
 
     0x1B:  AC 22 52 65 7E 27 2B 5A 12 61 0A 01 7A 6B 1D 67 	. . R e . . . Z . a . . z k . g 
     0x1C:  47 45 54 20 2F 64 61 37 35 33 37 30 66 65 31 35 	G E T   / d a 7 5 3 7 0 f e 1 5 
