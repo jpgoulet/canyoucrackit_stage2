@@ -3,7 +3,10 @@ CanYouCrackIt - Stage2 Solution
 
 This is the solution to the stage 2 of the [canyoucrackit][] challenge. I created a virtual machine using Python to load the data in memory and execute it. Emphasis has been put on code readability.
 
+The [vm specification and data] is taken from the solution of the stage 1.
+
 [canyoucrackit]:http://canyoucrackit.co.uk
+[vm specification and data]:http://canyoucrackit.co.uk/15b436de1f9107f3778aad525e5d0b20.js
 
 To run
 ------
